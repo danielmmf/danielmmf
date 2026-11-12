@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Medeiros</title>
+  <desc id="desc">Tech Lead, arquiteto de software e engenheiro full stack.</desc>
+  <rect width="1200" height="300" rx="18" fill="#14243a"/>
+  <path d="M850 0h350v300H975z" fill="#1d324c"/>
+  <path d="M1025 0h175v300h-65z" fill="#273d56"/>
+  <circle cx="1070" cy="94" r="120" fill="none" stroke="#8292a4" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1070" cy="94" r="88" fill="none" stroke="#8292a4" stroke-opacity=".22" stroke-width="2"/>
+  <rect x="72" y="66" width="58" height="5" rx="2.5" fill="#91a5ba"/>
+  <text x="72" y="132" fill="#f2f5f8" font-family="Arial, sans-serif" font-size="48" font-weight="700">Daniel Medeiros</text>
+  <text x="74" y="177" fill="#c2cdd8" font-family="Arial, sans-serif" font-size="21">TECH LEAD  ·  ARQUITETO DE SOFTWARE  ·  FULL STACK</text>
+  <text x="74" y="229" fill="#aebdcb" font-family="Arial, sans-serif" font-size="19">Estratégia, arquitetura e código para construir produtos digitais.</text>
+</svg>
