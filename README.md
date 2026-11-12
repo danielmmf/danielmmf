@@ -1,14 +1,14 @@
 <div align="center">
 
-# Olá, eu sou Daniel Medeiros 👋
+<img src="https://raw.githubusercontent.com/danielmmf/danielmmf/main/banner.svg" alt="Daniel Medeiros — Tech Lead, arquiteto de software e engenheiro full stack" width="100%">
 
-### Tech Lead · Arquiteto de Software · Engenheiro Full Stack
+### Olá, eu sou Daniel 👋
 
 **Transformando desafios de negócio em produtos digitais, com estratégia e código.**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0969DA?style=for-the-badge&logo=githubpages&logoColor=white)](https://danielmmf.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmmf)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmmf@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1D324C?style=for-the-badge&logo=githubpages&logoColor=white)](https://danielmmf.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-34495E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmmf)
+[![E-mail](https://img.shields.io/badge/E--mail-64748B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmmf@gmail.com)
 
 📍 São Paulo, Brasil
 
