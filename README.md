@@ -1,70 +1,61 @@
 <div align="center">
 
-<img src="banner.svg" alt="Terminal de apresentação de Daniel Medeiros: Tech Lead, arquitetura e desenvolvimento full stack em São Paulo" width="100%">
+<img src="banner.svg" alt="Daniel Medeiros — Tech Lead, arquitetura de software e desenvolvimento full stack" width="100%">
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/danielmmf)
-[![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-161b22?style=for-the-badge&logo=githubpages&logoColor=3fb950)](https://danielmmf.github.io/)
-[![E-mail](https://img.shields.io/badge/E--MAIL-161b22?style=for-the-badge&logo=gmail&logoColor=3fb950)](mailto:danielmmf@gmail.com)
-![Localização](https://img.shields.io/badge/S%C3%83O%20PAULO%2C%20BR-161b22?style=for-the-badge&logo=googlemaps&logoColor=3fb950)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/danielmmf)
+[![Portfólio](https://img.shields.io/badge/Portfólio-161b22?style=flat-square&logo=githubpages&logoColor=3fb950)](https://danielmmf.github.io/)
+[![E-mail](https://img.shields.io/badge/E--mail-161b22?style=flat-square&logo=gmail&logoColor=3fb950)](mailto:danielmmf@gmail.com)
 
 </div>
 
-### `01. // sobre_mim()`
+### `01. // sobre_mim`
 
-```javascript
+Transformo desafios de negócio em produtos digitais, conectando estratégia, arquitetura e desenvolvimento. Atuo com tecnologia desde 2002 e acompanho projetos do discovery à evolução contínua.
+
+```js
 const daniel = {
-  nome: "Daniel Medeiros",
-  atuacao: ["Tech Lead", "Arquitetura de Software", "Full Stack"],
-  experiencia: "Tecnologia desde 2002",
-  foco: "Transformar desafios de negócio em produtos digitais",
-  especialidade: "Telecomunicações (telcos)",
-  localizacao: "São Paulo, Brasil"
+  roles: ['Tech Lead', 'Software Architect', 'Full Stack Developer'],
+  especialidade: 'Telecomunicações e soluções para telcos',
+  foco: ['Produtos digitais', 'Arquitetura', 'Liderança técnica'],
+  local: 'São Paulo, Brasil'
 };
 ```
 
-Atuo com tecnologia desde 2002, conectando visão de negócio e execução técnica. Ao longo dessa trajetória, participei da criação e modernização de aplicações web, plataformas corporativas, sistemas distribuídos, e-commerces e produtos SaaS.
+### `02. // trajetória`
 
-Como fundador e CTO da **Devinhas**, trabalhei com projetos em turismo, logística, mobilidade, varejo, telecomunicações e fintechs. Gosto de acompanhar o produto de ponta a ponta: do discovery e da arquitetura ao desenvolvimento, implantação e evolução contínua.
+🏆 **Wanessa Camargo** · Desenvolvi o site da artista durante **7 anos**, em um trabalho premiado.
 
-> 🏆 **Wanessa Camargo:** desenvolvi o site da artista por **7 anos**, em um trabalho que recebeu premiação.
->
-> 📡 **Especialista em telecomunicações:** experiência em tecnologia e desenvolvimento de soluções para **telcos**.
+📡 **Telecomunicações** · Sou especializado em telcos, com experiência no desenvolvimento de soluções para o setor.
 
-```diff
-+ Liderança técnica e arquitetura alinhadas aos objetivos do negócio
-+ Desenvolvimento de aplicações, APIs e integrações
-+ Cloud, infraestrutura e evolução de sistemas
-+ Colaboração para transformar ideias em soluções úteis
-```
+🚀 **Devinhas** · Como fundador e CTO, atuei em projetos de turismo, logística, mobilidade, varejo, telecomunicações e fintechs.
 
-### `02. // tecnologias()`
+### `03. // tecnologias`
 
 **Backend**  
-![PHP](https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-161b22?style=for-the-badge&logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs)
-![Java](https://img.shields.io/badge/Java-161b22?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot)
+![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel)
+![Lumen](https://img.shields.io/badge/Lumen-161b22?style=flat-square&logo=lumen)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs)
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=springboot)
 
 **Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-161b22?style=for-the-badge&logo=angular)
-![Vue.js](https://img.shields.io/badge/Vue.js-161b22?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-161b22?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue.js-161b22?style=flat-square&logo=vuedotjs)
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-161b22?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=for-the-badge&logo=kubernetes)
+**Cloud & ferramentas**  
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-161b22?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-161b22?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes)
 
-**Integrações e dados:** APIs REST · bancos relacionais e NoSQL · Lumen
+APIs REST · bancos relacionais e NoSQL
 
-### `03. // alem_do_codigo()`
+### `04. // além_do_código`
 
-🏆 Participei de projetos premiados em hackathons, incluindo **Hackodonto / Odontoprev**, **AngelHack**, **Hackathon FIESP** e **IBM BlueHack**.
+Também participei de projetos premiados em hackathons, incluindo **Hackodonto / Odontoprev**, **AngelHack**, **Hackathon FIESP** e **IBM BlueHack**.
 
-💬 Vamos conversar sobre arquitetura, desenvolvimento e produtos digitais? Me encontre no [LinkedIn](https://linkedin.com/in/danielmmf) ou conheça meu [portfólio](https://danielmmf.github.io/).
+Vamos conversar sobre tecnologia e produtos digitais? [LinkedIn](https://linkedin.com/in/danielmmf) · [Portfólio](https://danielmmf.github.io/)
