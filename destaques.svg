@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="245" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+<title id="title">Experiência em destaque</title><desc id="desc">Sete anos desenvolvendo o site premiado de Wanessa Camargo e especialização em telecomunicações.</desc>
+<rect width="1200" height="245" rx="12" fill="#080d12"/><rect x="1" y="1" width="1198" height="243" rx="11" fill="none" stroke="#29343e"/>
+<text x="38" y="45" fill="#64e3a0" font-family="monospace" font-size="14">02 / EXPERIÊNCIA EM DESTAQUE</text><path d="M38 63h1124" stroke="#29343e"/><path d="M600 88v119" stroke="#29343e"/>
+<text x="38" y="111" fill="#f2f7f5" font-family="Arial, sans-serif" font-size="23" font-weight="bold">Wanessa Camargo</text>
+<text x="38" y="149" fill="#64e3a0" font-family="monospace" font-size="16">7 ANOS  ·  PROJETO PREMIADO</text>
+<text x="38" y="183" fill="#a7b5bf" font-family="Arial, sans-serif" font-size="17">Desenvolvimento do site da artista</text>
+<text x="638" y="111" fill="#f2f7f5" font-family="Arial, sans-serif" font-size="23" font-weight="bold">Telecomunicações</text>
+<text x="638" y="149" fill="#64e3a0" font-family="monospace" font-size="16">ESPECIALISTA EM TELCOS</text>
+<text x="638" y="183" fill="#a7b5bf" font-family="Arial, sans-serif" font-size="17">Tecnologia e soluções para o setor</text>
+</svg>

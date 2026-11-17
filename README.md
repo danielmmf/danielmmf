@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Daniel Medeiros — Tech Lead, arquitetura de software e desenvolvimento full stack" width="100%">
+<img src="banner.svg" alt="Daniel Medeiros — Tech Lead, arquitetura de software e desenvolvimento full stack. Especialista em telecomunicações, em São Paulo." width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/danielmmf)
 [![Portfólio](https://img.shields.io/badge/Portfólio-161b22?style=flat-square&logo=githubpages&logoColor=3fb950)](https://danielmmf.github.io/)
@@ -8,28 +8,15 @@
 
 </div>
 
-### `01. // sobre_mim`
+### `01 / sobre mim`
 
-Transformo desafios de negócio em produtos digitais, conectando estratégia, arquitetura e desenvolvimento. Atuo com tecnologia desde 2002 e acompanho projetos do discovery à evolução contínua.
+Sou **Tech Lead, arquiteto de software e desenvolvedor full stack**, com experiência em tecnologia desde 2002. Conecto visão de negócio e execução técnica para transformar desafios complexos em produtos digitais — da arquitetura à entrega e evolução.
 
-```js
-const daniel = {
-  roles: ['Tech Lead', 'Software Architect', 'Full Stack Developer'],
-  especialidade: 'Telecomunicações e soluções para telcos',
-  foco: ['Produtos digitais', 'Arquitetura', 'Liderança técnica'],
-  local: 'São Paulo, Brasil'
-};
-```
+Como fundador e CTO da **Devinhas**, atuei em projetos de telecomunicações, turismo, logística, mobilidade, varejo e fintechs.
 
-### `02. // trajetória`
+<img src="destaques.svg" alt="Experiência em destaque: desenvolvi o site da Wanessa Camargo por sete anos em um trabalho premiado; sou especialista em telecomunicações e soluções para telcos." width="100%">
 
-🏆 **Wanessa Camargo** · Desenvolvi o site da artista durante **7 anos**, em um trabalho premiado.
-
-📡 **Telecomunicações** · Sou especializado em telcos, com experiência no desenvolvimento de soluções para o setor.
-
-🚀 **Devinhas** · Como fundador e CTO, atuei em projetos de turismo, logística, mobilidade, varejo, telecomunicações e fintechs.
-
-### `03. // tecnologias`
+### `03 / tecnologias`
 
 **Backend**  
 ![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=white)
@@ -54,7 +41,7 @@ const daniel = {
 
 APIs REST · bancos relacionais e NoSQL
 
-### `04. // além_do_código`
+### `04 / além do código`
 
 Também participei de projetos premiados em hackathons, incluindo **Hackodonto / Odontoprev**, **AngelHack**, **Hackathon FIESP** e **IBM BlueHack**.
 
