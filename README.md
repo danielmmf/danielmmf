@@ -19,6 +19,7 @@ const daniel = {
   atuacao: ["Tech Lead", "Arquitetura de Software", "Full Stack"],
   experiencia: "Tecnologia desde 2002",
   foco: "Transformar desafios de negócio em produtos digitais",
+  especialidade: "Telecomunicações (telcos)",
   localizacao: "São Paulo, Brasil"
 };
 ```
@@ -26,6 +27,10 @@ const daniel = {
 Atuo com tecnologia desde 2002, conectando visão de negócio e execução técnica. Ao longo dessa trajetória, participei da criação e modernização de aplicações web, plataformas corporativas, sistemas distribuídos, e-commerces e produtos SaaS.
 
 Como fundador e CTO da **Devinhas**, trabalhei com projetos em turismo, logística, mobilidade, varejo, telecomunicações e fintechs. Gosto de acompanhar o produto de ponta a ponta: do discovery e da arquitetura ao desenvolvimento, implantação e evolução contínua.
+
+> 🏆 **Wanessa Camargo:** desenvolvi o site da artista por **7 anos**, em um trabalho que recebeu premiação.
+>
+> 📡 **Especialista em telecomunicações:** experiência em tecnologia e desenvolvimento de soluções para **telcos**.
 
 ```diff
 + Liderança técnica e arquitetura alinhadas aos objetivos do negócio
