@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Daniel Medeiros — Tech Lead, arquitetura de software e desenvolvimento full stack. Especialista em telecomunicações, em São Paulo." width="100%">
+<img src="terminal.svg" alt="Terminal: Daniel Medeiros, Tech Lead, arquiteto de software e desenvolvedor full stack, especialista em telecomunicações, em São Paulo." width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950)](https://linkedin.com/in/danielmmf)
 [![Portfólio](https://img.shields.io/badge/Portfólio-161b22?style=flat-square&logo=githubpages&logoColor=3fb950)](https://danielmmf.github.io/)
@@ -8,15 +8,19 @@
 
 </div>
 
-### `01 / sobre mim`
+### `01. // sobre_mim()`
 
-Sou **Tech Lead, arquiteto de software e desenvolvedor full stack**, com experiência em tecnologia desde 2002. Conecto visão de negócio e execução técnica para transformar desafios complexos em produtos digitais — da arquitetura à entrega e evolução.
+**Tecnologia desde 2002. Estratégia, arquitetura e código para tirar boas ideias do papel.**
 
-Como fundador e CTO da **Devinhas**, atuei em projetos de telecomunicações, turismo, logística, mobilidade, varejo e fintechs.
+Sou Tech Lead, arquiteto de software e desenvolvedor full stack. Conecto visão de negócio e execução técnica, acompanhando produtos digitais da arquitetura à entrega e evolução. Como fundador e CTO da **Devinhas**, atuei em telecomunicações, turismo, logística, mobilidade, varejo e fintechs.
 
-<img src="destaques.svg" alt="Experiência em destaque: desenvolvi o site da Wanessa Camargo por sete anos em um trabalho premiado; sou especialista em telecomunicações e soluções para telcos." width="100%">
+### `02. // experiências_em_destaque()`
 
-### `03 / tecnologias`
+📡 **Telecomunicações** · Especialista em telcos, com experiência no desenvolvimento de soluções para o setor.
+
+🏆 **Wanessa Camargo** · Desenvolvi o site da artista durante **7 anos**, em um trabalho premiado.
+
+### `03. // tecnologias()`
 
 **Backend**  
 ![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=white)
@@ -41,7 +45,7 @@ Como fundador e CTO da **Devinhas**, atuei em projetos de telecomunicações, tu
 
 APIs REST · bancos relacionais e NoSQL
 
-### `04 / além do código`
+### `04. // além_do_código()`
 
 Também participei de projetos premiados em hackathons, incluindo **Hackodonto / Odontoprev**, **AngelHack**, **Hackathon FIESP** e **IBM BlueHack**.
 
